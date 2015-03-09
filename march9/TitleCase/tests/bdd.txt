@@ -1,0 +1,11 @@
+Test 1:
+    1. Enter Title
+    2. Return Title with first letter of first word uppercase
+Test 2:
+    1. enter Title with multiples word
+    2. Return Titles with multiple words capitalized ex. "the little mermaid"
+       would be the user input. "The Little Mermaid" would be the output.
+Test 3:
+    1. enter Title with little words.
+    2. for example the input would be "to be or not to be" the output would be
+    "To Be or Not to Be"
