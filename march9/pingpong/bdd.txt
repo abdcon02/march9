@@ -1,0 +1,13 @@
+Test 1:
+1. Input a number eg. 30.
+2. prints out each number from zero to Input.  eg: 0-30
+Test 2:
+1. Input a number eg. 30.
+2. Print out each number from zero to Input. eg 0-30.
+3. For multiples of 15, print out "PingPong". eg 12,13,14,PingPong, 16.
+Test 3.
+1. Input a number eg. 30.
+2. Print out each number from zero to Input. eg 0-30.
+3. For multiples of 15, print out "PingPong". eg 12,13,14,PingPong, 16.
+4. For multiples of 3, print out "Ping", for multiples of 5, print out "Pong".
+example- 1,2,Ping,4,Pong,Ping,7...14,PingPong,16.
