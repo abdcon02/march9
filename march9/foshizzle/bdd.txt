@@ -1,0 +1,27 @@
+
+
+Spec 1
+
+input : "s"
+output : "z"
+
+Spec: Change "s" to "z"
+
+Spec 2
+
+input: "susan"
+output: "zuzan"
+
+Spec: Change all "s" in a word to "z"
+
+Spec 3
+
+input: "this is awesome"
+output: "thiz iz awezome"
+
+Spec: change all 's' to 'z' in a sentence.
+
+input: "Seriously?"
+output: "Seriouzly?"
+
+spec: first letter 
