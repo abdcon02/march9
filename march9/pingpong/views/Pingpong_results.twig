@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Your Results</title>
+    </head>
+    <body>
+        <h1>Your Results</h1>
+            <!-- {% if pingpong is not empty %} -->
+            <ul>
+                {% for number in pingpong %}
+                    <li>{{ number }}</li>
+                {% endfor %}
+            </ul>
+            <!-- {% endif %} -->
+        <a href="/"><button type="submit">Take me Back</button></a>
+    </body>
+
+</html>
